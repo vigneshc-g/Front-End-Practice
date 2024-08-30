@@ -8,4 +8,3 @@ img.addEventListener("mouseover", ()=> {
 img.addEventListener("mouseleave", ()=> {
     card.style.filter = "invert(0%)";   
 });
-
