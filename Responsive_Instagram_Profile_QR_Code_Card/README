@@ -1,0 +1,19 @@
+A Instagram Profile QR Code is designed as a Responsive Card using HTML/CSS/JavaScript.
+
+Documentation of files: 
+    - The images required are in "Responsive_Instagram_Profile_QR_Code_Card\images" folder.
+    - The project has 3 files: 
+        1. "index.html" file
+        2. "style.css" file.
+        3. "script.js" file.
+    - Styling Information:
+        -> Font Information -
+            - font-family: [Outfit] "https://fonts.google.com/specimen/Outfit"
+            - font-weight: [Regular400 - Bold700]
+            - font-style: normal
+        -> Responsiveness -
+            - Responsive for mobile(width: 375px) to desktop(width: 1440px). 
+
+Main Concepts: 
+    CSS - MediaQueries, Shadow property, filter property.
+    JavaScript - Event Listeners.        
