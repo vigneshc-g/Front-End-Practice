@@ -9,10 +9,3 @@ img.addEventListener("mouseleave", ()=> {
     card.style.filter = "invert(0%)";   
 });
 
-img.addEventListener("click", ()=> {
-    card.style.filter = "invert(0%)";   
-});
-
-img.addEventListener("mouseleave", ()=> {
-    card.style.filter = "invert(100%)";   
-});
